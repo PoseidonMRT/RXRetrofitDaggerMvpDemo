@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/tuozhaobing/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_b615e52649318b0d9357509a38329a9663b6ef02/classes.dex" />
+    </item>
+    <item
+        jar="/home/tuozhaobing/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_82dc343c570041aec5232e4044b4a288904201ba/classes.dex" />
+    </item>
+    <item
+        jar="/home/tuozhaobing/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.1/27293c440d2085cde1d859528aff6e7d3b6ae40/retrofit-2.0.1.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="027293c440d2085cde1d859528aff6e7d3b6ae40">
+        <dex dex="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.1_7df897e7114719f0b2ccfa42435784c994219892/classes.dex" />
+    </item>
+    <item
+        jar="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_46d4d7424681535741101b3f3905176ab4cb07b2/classes.dex" />
+    </item>
+    <item
+        jar="/home/tuozhaobing/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.2.0/6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c/okhttp-urlconnection-3.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c">
+        <dex dex="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.2.0_a4af068a08d02c1da55a3349281f835a604c9a4e/classes.dex" />
+    </item>
+    <item
+        jar="/home/tuozhaobing/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_82b616c4549ca3540a9451d8607d82e50d94fcac/classes.dex" />
+    </item>
+    <item
+        jar="/home/tuozhaobing/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.2/df90a91dbb9a7d942361a5613b1666e38dca4844/rxjava-1.1.2.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="df90a91dbb9a7d942361a5613b1666e38dca4844">
+        <dex dex="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.2_a6340eef9b6a68b31398335e7427fecdd65fa933/classes.dex" />
+    </item>
+    <item
+        jar="/home/tuozhaobing/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.1/cabf146d220dcd70a2972166cd1bfae200b97eff/adapter-rxjava-2.0.1.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="cabf146d220dcd70a2972166cd1bfae200b97eff">
+        <dex dex="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.0.1_e8a3edec9d4f7d03660a1b2fd85ad6b1fb7399cc/classes.dex" />
+    </item>
+    <item
+        jar="/toolchain/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_12b67242f109e1e87e29abc50ce5a58ace4f34e0/classes.dex" />
+    </item>
+    <item
+        jar="/home/tuozhaobing/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_31c1d3c368553201dfcd111484d290284e08414e/classes.dex" />
+    </item>
+    <item
+        jar="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_f1e59d50c39af7336ea956d62c2072afa6b2f6af/classes.dex" />
+    </item>
+    <item
+        jar="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="29bbbae3222966005d7bde130004c87f691bac11">
+        <dex dex="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_93617e9cc5b40de89be20afe306337fb83f229fd/classes.dex" />
+    </item>
+    <item
+        jar="/home/tuozhaobing/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.1/2780d858273ce1bb90f6b12e1ef0d40f7741fca/converter-gson-2.0.1.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="02780d858273ce1bb90f6b12e1ef0d40f7741fca">
+        <dex dex="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.1_c43af4ed0282f91db154c95a3ae74f9ff4f53f49/classes.dex" />
+    </item>
+    <item
+        jar="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_cd55b80397b2ad5e1adb78b4af6ddac217717d8a/classes.dex" />
+    </item>
+    <item
+        jar="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_c43992cde0a5f85ef95e32eb9e1fd53d3dd8e0f2/classes.dex" />
+    </item>
+    <item
+        jar="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="684a6122018fc1cd3e8bed5612c16ae5444a3e16">
+        <dex dex="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_db5d07312b9a0f5dd68a45548e42924919496db8/classes.dex" />
+    </item>
+    <item
+        jar="/home/tuozhaobing/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.2/febfd2d9e89bde4c3a9723bcd9522cba96bddac7/dagger-2.2.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="febfd2d9e89bde4c3a9723bcd9522cba96bddac7">
+        <dex dex="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-2.2_f8ca28081ab7657a805c4cdb338b629b0d264790/classes.dex" />
+    </item>
+    <item
+        jar="/home/tuozhaobing/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_6d8fe8a578d70b77fbbf0a96b5875a48a823b9db/classes.dex" />
+    </item>
+    <item
+        jar="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.1.0_a3f1c099ba4f15be56d47aed71ca0aeb0ba434d6/classes.dex" />
+    </item>
+    <item
+        jar="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/0.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-0.4.0_6fb8c0d4e059c1c2aa5daaa219222ac9caa04370/classes.dex" />
+    </item>
+    <item
+        jar="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_dd9e4c11858f4e2f7673d16f8a45e1435e8d4409/classes.dex" />
+    </item>
+    <item
+        jar="/home/tuozhaobing/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/tuozhaobing/graduation_project/RXRetrofitDaggerMvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_77fa4b504a7b2ce79354ee2b325393be3acac1c6/classes.dex" />
+    </item>
+
+</items>
