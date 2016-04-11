@@ -1,0 +1,2 @@
+# RXRetrofitDaggerMvpDemo
+一个使用Retrofit2+Dagger2+RxJava+OKhttp+ButterKnife构建的MVP模式的简单demo，简单实现了查询天气
